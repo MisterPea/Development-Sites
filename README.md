@@ -32,6 +32,7 @@
 * [Uber Engineering](https://developer.salesforce.com)
 * [Wayfair Tech Blog](https://tech.wayfair.com)
 * [YouTube Engineer and Developers Blog](https://youtube-eng.googleblog.com)
+* [Zoom Developer Blog](https://medium.com/zoom-developer-blog)
 
 
 
