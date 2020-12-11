@@ -5,6 +5,7 @@
 * [Discord Engineering](https://blog.discord.com/tagged/engineering)
 * [Blackrock Engineering](https://medium.com/blackrock-engineering)
 * [DoorDash Engineering Blog](https://doordash.engineering)
+* [Expedia Group](https://medium.com/expedia-group-tech)
 * [Facebook Engineering](https://engineering.fb.com)
 * [Facebook Research](https://research.fb.com)
 * [GitHub Engineering](https://githubengineering.com)
