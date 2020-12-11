@@ -1,6 +1,4 @@
-### Development-Sites
-#### Collection of URLs for the Engineering Side of Companies
----------
+## Corporate Engineering Blogs 🪶
 * [Adobe Tech Blog](https://medium.com/adobetech)
 * [Airbnb Engineering & Data Science](https://airbnb.io)
 * [Apple Developer](https://developer.apple.com)
