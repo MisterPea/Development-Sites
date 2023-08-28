@@ -4,6 +4,7 @@
 * [Apple Developer](https://developer.apple.com)
 * [Discord Engineering](https://blog.discord.com/tagged/engineering)
 * [Blackrock Engineering](https://medium.com/blackrock-engineering)
+* [Canva Engineering](https://www.canva.dev/blog/engineering)
 * [DoorDash Engineering Blog](https://doordash.engineering)
 * [Expedia Group Technology](https://medium.com/expedia-group-tech)
 * [Facebook Engineering](https://engineering.fb.com)
